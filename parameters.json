@@ -1,0 +1,72 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_VM_name": {
+            "value": null
+        },
+        "publicIPAddresses_VM_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_VM_vnet_name": {
+            "value": null
+        },
+        "metricAlerts_Availability_name": {
+            "value": null
+        },
+        "metricAlerts_Storageusage_name": {
+            "value": null
+        },
+        "networkInterfaces_vm435_z1_name": {
+            "value": null
+        },
+        "sites_Shashank_webapp_project03_name": {
+            "value": null
+        },
+        "networkSecurityGroups_VM_nsg_name": {
+            "value": null
+        },
+        "vaults_vault_m0tulhhm_name": {
+            "value": null
+        },
+        "storageAccounts_storageproject03_name": {
+            "value": null
+        },
+        "metricAlerts_Percentage_CPU___VM_name": {
+            "value": null
+        },
+        "serverfarms_Shashank_webapp_project03_name": {
+            "value": null
+        },
+        "metricAlerts_VM_Availability___VM_name": {
+            "value": null
+        },
+        "metricAlerts_Network_In_Total___VM_name": {
+            "value": null
+        },
+        "metricAlerts_Network_Out_Total___VM_name": {
+            "value": null
+        },
+        "components_Shashank_webapp_project03_name": {
+            "value": null
+        },
+        "actionGroups_RecommendedAlertRules_AG_1_name": {
+            "value": null
+        },
+        "metricAlerts_Available_Memory_Bytes___VM_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "metricAlerts_OS_Disk_IOPS_Consumed_Percentage___VM_name": {
+            "value": null
+        },
+        "metricAlerts_Data_Disk_IOPS_Consumed_Percentage___VM_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_13f92e62_fb3c_42a3_a3c8_18cbe9376144_CCAN_externalid": {
+            "value": null
+        }
+    }
+}
